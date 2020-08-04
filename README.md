@@ -1,1 +1,1 @@
-# Basic-Shell
+# Lush Shell
